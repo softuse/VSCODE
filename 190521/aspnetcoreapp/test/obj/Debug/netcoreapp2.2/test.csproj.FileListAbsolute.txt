@@ -1,0 +1,14 @@
+D:\source\vscode\190521\aspnetcoreapp\test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\source\vscode\190521\aspnetcoreapp\test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+D:\source\vscode\190521\aspnetcoreapp\test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+D:\source\vscode\190521\aspnetcoreapp\test\bin\Debug\netcoreapp2.2\test.deps.json
+D:\source\vscode\190521\aspnetcoreapp\test\bin\Debug\netcoreapp2.2\test.runtimeconfig.json
+D:\source\vscode\190521\aspnetcoreapp\test\bin\Debug\netcoreapp2.2\test.runtimeconfig.dev.json
+D:\source\vscode\190521\aspnetcoreapp\test\bin\Debug\netcoreapp2.2\test.dll
+D:\source\vscode\190521\aspnetcoreapp\test\bin\Debug\netcoreapp2.2\test.pdb
+D:\source\vscode\190521\aspnetcoreapp\test\obj\Debug\netcoreapp2.2\test.csprojAssemblyReference.cache
+D:\source\vscode\190521\aspnetcoreapp\test\obj\Debug\netcoreapp2.2\test.csproj.CoreCompileInputs.cache
+D:\source\vscode\190521\aspnetcoreapp\test\obj\Debug\netcoreapp2.2\test.AssemblyInfoInputs.cache
+D:\source\vscode\190521\aspnetcoreapp\test\obj\Debug\netcoreapp2.2\test.AssemblyInfo.cs
+D:\source\vscode\190521\aspnetcoreapp\test\obj\Debug\netcoreapp2.2\test.dll
+D:\source\vscode\190521\aspnetcoreapp\test\obj\Debug\netcoreapp2.2\test.pdb
